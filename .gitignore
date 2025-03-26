@@ -1,8 +1,14 @@
 /webnongsan-war/nbproject/private/
 /webnongsan-war/build/
 /webnongsan-war/dist/
-**/nbproject/**
 **/build/**
-nbproject/
+nbproject/project.properties
+nbproject/private/
+
+webnongsan-ejb/nbproject/private/
+webnongsan-ejb/nbproject/project.properties
+
+webnongsan-war/nbproject/project.properties
+
 **/.netbeans_update_resources
 **/.netbeans_automatic_build
