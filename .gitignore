@@ -4,3 +4,6 @@
 **/nbproject/**
 **/build/**
 build/
+nbproject
+**/.netbeans_update_resources
+**/.netbeans_automatic_build
