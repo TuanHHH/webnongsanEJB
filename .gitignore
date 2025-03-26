@@ -3,3 +3,5 @@
 /webnongsan-war/dist/
 **/nbproject/**
 **/build/**
+/nbproject
+/dist
