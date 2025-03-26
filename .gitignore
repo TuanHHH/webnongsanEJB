@@ -2,4 +2,5 @@
 /webnongsan-war/build/
 /webnongsan-war/dist/
 **/nbproject/**
-**/build/** */
+**/build/**
+build/
